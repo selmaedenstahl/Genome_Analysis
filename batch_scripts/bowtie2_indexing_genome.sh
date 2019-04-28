@@ -13,4 +13,4 @@ module load bioinfo-tools
 module load bowtie2
 
 # Commands
-bowtie2-build /home/seed5004/home/seed5004/genome_analyses/analyses/02_genome_assembly/pilon_correction/pilon_assembly_correction_scaffold_11.fasta /home/seed5004/home/seed5004/genome_analyses/analyses/03_transcriptome_assembly/tophat_alignment/genome_assembly_index
+bowtie2-build /home/seed5004/genome_analyses/analyses/02_genome_assembly/pilon_correction/pilon_assembly_correction_scaffold_11.fasta /home/seed5004/genome_analyses/analyses/03_transcriptome_assembly/tophat_alignment/genome_assembly_index
