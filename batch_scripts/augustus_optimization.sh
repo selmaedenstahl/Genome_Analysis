@@ -3,7 +3,7 @@
 #SBATCH -A g2019003
 #SBATCH -p core
 #SBATCH -n 4
-#SBATCH -t 10:00:00
+#SBATCH -t 20:00:00
 #SBATCH -J augustus_opt_selma_edenstahl
 #SBATCH --mail-type=ALL
 #SBATCH --mail-user selma.edenstahl@gmail.com
