@@ -10,7 +10,7 @@
 
 # Load modules
 module load bioinfo-tools
-module load maker/3.01.1-beta
+module load maker
 
 # My commands
 cd /home/seed5004/genome_analyses/analyses/04_annotation/maker_annotation/
